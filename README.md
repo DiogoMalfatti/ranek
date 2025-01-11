@@ -2,8 +2,6 @@
 
 ### Curso de React feito na Origamid
 
-### Descrição do curso :
-
 <img align="center" alt="html5"
   src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="css3"
@@ -25,19 +23,16 @@
 <img align="center" alt="vercel"
   src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
-<img align="center" alt="imagem da descrição do curso de javascript da origamid"
-  height="400em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/cursoJSOrigamid.png" />
+<p> - Arquitetura do projeto</p>
+<img align="center" alt="arquitetura do projeto"
+  height="420em" src="https://github.com/DiogoMalfatti/ranek/blob/main/src/assets/img/arquitetura.png" />
 
-<p> - HTML do projeto</p>
-<img align="center" alt="html do projeto"
-  height="420em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/imgDoHTMLAnimaisFantasticos.png" />
+<p> - React JSX</p>
+<img align="center" alt="react jsx do projeto"
+  height="418em" src="https://github.com/DiogoMalfatti/ranek/blob/main/src/assets/img/reactjsx.png" />
 
-<p> - CSS do projeto</p>
-<img align="center" alt="css do projeto"
-  height="418em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/imgDoCSSAnimaisFantasticos.png" />
-
-<p> - Javascript do projeto</p>
-<img align="center" alt="javascript do projeto"
+<p> - CSS3 do projeto</p>
+<img align="center" alt="css3 do projeto"
   height="420em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/imgDoJSAnimaisFantasticos.png" />
 
 <p> - Terminal usando git</p>
