@@ -1,4 +1,3 @@
-import React from "react";
 import "./App.css";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Produtos from "./components/Produtos";
@@ -24,5 +23,7 @@ const App = () => {
     </div>
   );
 };
+
+// https://ranek.vercel.app/
 
 export default App;
