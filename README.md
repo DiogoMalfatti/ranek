@@ -1,6 +1,6 @@
-# Animais Fantásticos
+# Ranek Produtos
 
-### Curso de Javascript feito na Origamid
+### Curso de React feito na Origamid
 
 ### Descrição do curso :
 
