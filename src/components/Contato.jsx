@@ -1,4 +1,3 @@
-import React from "react";
 import styles from "../assets/styles/Contato.module.css";
 import contato from "../assets/img/contato.jpg";
 import Head from "./Head";
