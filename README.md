@@ -25,27 +25,27 @@
 
 <p> - Arquitetura do projeto</p>
 <img align="center" alt="arquitetura do projeto"
-  height="420em" src="https://github.com/DiogoMalfatti/ranek/blob/main/src/assets/img/arquitetura.png" />
+  height="420em" src="https://github.com/DiogoMalfatti/ranek/blob/main/src/assets/img/routes.png" />
 
 <p> - React JSX</p>
 <img align="center" alt="react jsx do projeto"
-  height="418em" src="https://github.com/DiogoMalfatti/ranek/blob/main/src/assets/img/reactjsx.png" />
+  height="418em" src="https://github.com/DiogoMalfatti/ranek/blob/main/src/assets/img/reactjsx2.png" />
 
 <p> - CSS3 do projeto</p>
 <img align="center" alt="css3 do projeto"
-  height="420em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/imgDoJSAnimaisFantasticos.png" />
+  height="420em" src="https://github.com/DiogoMalfatti/ranek/blob/main/src/assets/img/css32.png" />
 
-<p> - Terminal usando git</p>
-<img align="center" alt="terminal usando git"
-  height="420em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/imgDoTerminalGit.png" />
+<p> - Página de produtos</p>
+<img align="center" alt="pagina de produtos"
+  height="420em" src="https://github.com/DiogoMalfatti/ranek/blob/main/src/assets/img/produtos2.png" />
 
-<p> - Projeto Animais Fantásticos</p>
-<img align="center" alt="imagem do projeto animais fantasticos"
-  height="400em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/animaisFantasticos.png" />
+<p> - Página de produto</p>
+<img align="center" alt="pagina de produto"
+  height="400em" src="https://github.com/DiogoMalfatti/ranek/blob/main/src/assets/img/produto2.png" />
 
-<p> - Certificado de conclusão do Curso Javascript Completo ES6+ Origamid</p>
-<img align="center" alt="imagem do certificado de conclusão do curso Javascript Completo ES6+ Origamid do Diogo Malfatti"
-  height="418em" src="https://github.com/DiogoMalfatti/animaisFantasticos/blob/main/img/DiogoMalfattiCertificadoJavascript.png" />
+<p> - Página de contato</p>
+<img align="center" alt="pagina de contato"
+  height="418em" src="https://github.com/DiogoMalfatti/ranek/blob/main/src/assets/img/contato2.png" />
 
 <p>Feito com ❤️ por :</p>
 
