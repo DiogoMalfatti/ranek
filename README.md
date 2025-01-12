@@ -27,9 +27,9 @@
 <img align="center" alt="arquitetura do projeto"
   height="420em" src="https://github.com/DiogoMalfatti/ranek/blob/main/src/assets/img/routes.png" />
 
-<p> - React JSX</p>
+<p> - React JSX do projeto</p>
 <img align="center" alt="react jsx do projeto"
-  height="418em" src="https://github.com/DiogoMalfatti/ranek/blob/main/src/assets/img/reactjsx2.png" />
+  height="420em" src="https://github.com/DiogoMalfatti/ranek/blob/main/src/assets/img/reactjsx2.png" />
 
 <p> - CSS3 do projeto</p>
 <img align="center" alt="css3 do projeto"
@@ -41,11 +41,11 @@
 
 <p> - Página de produto</p>
 <img align="center" alt="pagina de produto"
-  height="400em" src="https://github.com/DiogoMalfatti/ranek/blob/main/src/assets/img/produto2.png" />
+  height="420em" src="https://github.com/DiogoMalfatti/ranek/blob/main/src/assets/img/produto2.png" />
 
 <p> - Página de contato</p>
 <img align="center" alt="pagina de contato"
-  height="418em" src="https://github.com/DiogoMalfatti/ranek/blob/main/src/assets/img/contato2.png" />
+  height="420em" src="https://github.com/DiogoMalfatti/ranek/blob/main/src/assets/img/contato2.png" />
 
 <p>Feito com ❤️ por :</p>
 
