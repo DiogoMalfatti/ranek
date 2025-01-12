@@ -1,4 +1,5 @@
 import React from "react";
+import PropTypes from "prop-types";
 
 const Head = (props) => {
   React.useEffect(() => {
@@ -8,6 +9,10 @@ const Head = (props) => {
       .setAttribute("content", props.description);
   }, [props]);
   return <></>;
+};
+Head.propTypes = {
+  title: PropTypes.string.isRequired,
+  description: PropTypes.string.isRequired,
 };
 
 export default Head;
